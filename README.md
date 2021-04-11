@@ -29,14 +29,6 @@ index.html
 try to scroll through the web page and see all effects
 and try to click on the section from the navigation
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Built With
 
 - HTML - for the layout
