@@ -1,8 +1,8 @@
 "use strict";
 
-// select the navbar menu
+// selecting the navbar menu
 const navbar = document.querySelector(".navbar__menu");
-// select the navbar list
+// selecting the navbar list
 const navbarList = document.querySelector("#navbar__list");
 // selecting all sections in one variable
 const sections = document.querySelectorAll("section");
